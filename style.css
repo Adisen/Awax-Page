@@ -441,7 +441,7 @@ footer .wrapper {
     margin: 2em 0;
 }
 
-@media (max-width: 800px){
+/* @media (max-width: 800px){
     
     nav {
         display: none;
@@ -478,7 +478,7 @@ footer .wrapper {
         font-size: 2em;
     }
     
-    /* About Us */
+    /* About Us 
     
     #about-us #content {
         display: block;
@@ -488,7 +488,7 @@ footer .wrapper {
         padding-bottom: 20px;
     }
 
-    /* Services */
+    /* Services 
 
     #services{
         min-height: 330px;
@@ -502,7 +502,7 @@ footer .wrapper {
         font-size: .4em;
     }
 
-    /* Our Projects */
+    /* Our Projects 
     #our-projects #nav{
         display: block;
         padding: .3em .5em;
@@ -541,7 +541,7 @@ footer .wrapper {
         padding: 1em 2em; 
     }
 
-    /* Our Team */
+    /* Our Team 
 
     #our-team{
         margin-bottom: 50px;
@@ -580,7 +580,7 @@ footer .wrapper {
         padding-top: 20px;
     }
 
-    /* Happy Clients */
+    /* Happy Clients 
 
     #happy-clients {
         padding-bottom: 50px;
@@ -601,7 +601,7 @@ footer .wrapper {
         width: 60%;
     }
 
-    /* Footer */
+    /* Footer 
 
     footer .wrapper {
         display: inline-block;
@@ -626,4 +626,4 @@ footer .wrapper {
         text-align: center;
         width: 90%;
     }
-}
+} */
