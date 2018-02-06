@@ -111,7 +111,7 @@ header a{
 }
 
 #logo{
-    padding-top: 10px; 
+    padding-top: 10px;
 }
 #logo p{
     padding-top: 0;
@@ -151,7 +151,7 @@ header a{
 #about-us{
     background: #f7f7f7;
     padding-top:0;
-    margin-top: 0; 
+    margin-top: 0;
     min-height: 400px;
     width: 100%;
 }
@@ -168,7 +168,7 @@ header a{
 #details{
     text-align: left;
     width: 400px;
-    padding-right: 2em; 
+    padding-right: 2em;
 }
 
 #details p{
@@ -221,7 +221,7 @@ header a{
 /* Our Projects */
 
 #our-projectcs{
-    background: #f7f7f7; 
+    background: #f7f7f7;
 }
 
 #our-projects #nav{
@@ -255,7 +255,7 @@ header a{
     justify-content: space-around;
     margin: 0 auto;
     align-items: stretch;
-    
+
 }
 
 #our-projects img{
@@ -301,7 +301,7 @@ header a{
 
 #our-projects .btn{
     display: inline-block;
-    margin-bottom: 4em; 
+    margin-bottom: 4em;
 }
 
 /* Our Team */
@@ -372,7 +372,7 @@ header a{
     display: flex;
     width: 60%;
     margin: 0 auto;
-    
+
 }
 
 .reviewer{
@@ -441,16 +441,16 @@ footer .wrapper {
     margin: 2em 0;
 }
 
-/* @media (max-width: 800px){
-    
+@media (max-width: 800px){
+
     nav {
         display: none;
     }
-    
+
     .menu{
         display: block;
         align-self: center;
-        padding-right: 20px; 
+        padding-right: 20px;
     }
 
     .container {
@@ -460,11 +460,11 @@ footer .wrapper {
     .menu:hover nav {
         display: inline-block;
     }
-    
+
     #logo{
         padding-left: 20px;
     }
-    
+
     #showcase {
         height: 200px;
         padding-bottom: 0;
@@ -472,14 +472,14 @@ footer .wrapper {
     #showcase #bg-image{
         height: 200px;
     }
-    
+
     #showcase h1{
         padding-top: 100px;
         font-size: 2em;
     }
-    
-    /* About Us 
-    
+
+    /* About Us */
+
     #about-us #content {
         display: block;
     }
@@ -488,71 +488,71 @@ footer .wrapper {
         padding-bottom: 20px;
     }
 
-    /* Services 
+    /* Services */
 
     #services{
         min-height: 330px;
     }
-    
+
     #services h3{
         font-size: .7em;
     }
-    
+
     #services p{
         font-size: .4em;
     }
 
-    /* Our Projects 
+    /* Our Projects */
     #our-projects #nav{
         display: block;
         padding: .3em .5em;
         margin: 0 20px;
         border-radius: 10px;
     }
-    
+
     #our-projects #nav li{
         display: block;
         padding: .2em 3em;
         border-left: none;
         font-size: .8em;
     }
-    
+
     #our-projects .grid{
         justify-content: space-around;
-        margin: 0 auto;    
-        text-align: center;    
+        margin: 0 auto;
+        text-align: center;
     }
-    
+
     #our-projects img{
         display: inline-block;
         width: 80%;
     }
-    
+
     #photos{
         padding: 1em;
     }
-    
+
     .content-cover .content{
         left: 10%;
         overflow: hidden;
     }
-    
+
     #our-projects .btn{
-        padding: 1em 2em; 
+        padding: 1em 2em;
     }
 
-    /* Our Team 
+    /* Our Team */
 
     #our-team{
         margin-bottom: 50px;
         max-height: 600px;
     }
-    
+
     #our-team .grid{
         display: flex;
         justify-content: space-around;
     }
-    
+
     .card{
         border-radius: 5px;
         margin: 0 .1em;
@@ -570,60 +570,60 @@ footer .wrapper {
     .card h3 {
         font-size: .5em;
     }
-    
+
     .card img{
         width: 40%;
     }
-    
+
     .social{
         display: inline-block;
         padding-top: 20px;
     }
 
-    /* Happy Clients 
+    /* Happy Clients */
 
     #happy-clients {
         padding-bottom: 50px;
     }
-    
+
     .review {
         display: inline-block;
         box-sizing: border-box;
         width: 100%;
-        padding: 0 20px;   
+        padding: 0 20px;
     }
-    
+
     .reviewer{
         width: 100%;
     }
-    
+
     .reviewer img{
         width: 60%;
     }
 
-    /* Footer 
+    /* Footer */
 
     footer .wrapper {
         display: inline-block;
         width: 100%;
         margin: 0 auto;
     }
-    
+
     .wrapper p {
         padding-bottom: 10px;
         text-align: justify;
         width: 50%;
         margin: 0 auto;
     }
-    
+
     .wrapper form {
         height: 150px;
     }
-    
+
     .wrapper form input{
         padding-bottom: 1em;
         font-size: .6em;
         text-align: center;
         width: 90%;
     }
-} */
+}
